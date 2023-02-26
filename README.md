@@ -17,7 +17,7 @@ This repository contains the course materials and projects for the IBM - Data Sc
 
 ## What is Data Science
 
-![Alt Text](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="87a39d7c-0cd7-4526-8bc5-a8a3130020bb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+[ alt-text ](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="87a39d7c-0cd7-4526-8bc5-a8a3130020bb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
 
 
 ## Tools For Data Science
